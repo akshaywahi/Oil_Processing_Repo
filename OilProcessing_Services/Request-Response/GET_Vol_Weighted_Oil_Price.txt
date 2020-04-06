@@ -1,0 +1,7 @@
+URL: http://localhost:8080/volwtd-oil-price
+Sample: http://localhost:8080/volwtd-oil-price
+
+Sample Response: 
+{
+    "Volume Weighted Oil Price": 45.18181818181818
+}

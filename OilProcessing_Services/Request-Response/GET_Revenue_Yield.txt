@@ -1,0 +1,9 @@
+URL: http://localhost:8080/revenue-yield/oilid/{oilid}/price/{price}
+Sample: http://localhost:8080/revenue-yield/oilid/TIM/price/2
+
+Sample Response: 
+{
+    "standard": 2.5,
+    "premium": 3.885
+}
+

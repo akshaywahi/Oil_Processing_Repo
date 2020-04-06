@@ -1,0 +1,16 @@
+URL: http://localhost:8080/inventory-index
+Sample: http://localhost:8080/inventory-index
+
+JSON Raw Body passed: 
+{
+    "aac_price": "34",
+    "rew_price": "45",
+    "bwo_price": "24",
+    "tim_price": "87",
+    "qfc_price": "12"
+}
+
+Sample Response: 
+{
+    "Volume Weighted Oil Price": 32.864016066860394
+}

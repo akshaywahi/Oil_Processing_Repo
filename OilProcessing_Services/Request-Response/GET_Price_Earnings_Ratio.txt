@@ -1,0 +1,7 @@
+URL: http://localhost:8080/price-earnings-ratio/oilid/{oilid}/price/{price}
+Sample: http://localhost:8080/price-earnings-ratio/oilid/AAC/price/2
+
+Sample Response: 
+{
+    "priceEarningsRatio": 2
+}

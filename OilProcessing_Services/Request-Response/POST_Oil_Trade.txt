@@ -1,0 +1,14 @@
+URL: http://localhost:8080/oil-trade
+Sample: http://localhost:8080/oil-trade
+
+JSON Raw Body passed: 
+{
+    "tradeType": "Sell",
+    "quantity": "7",
+    "price": "39"
+}
+
+Sample Response: 
+{
+    "Result": "Transaction processed"
+}
